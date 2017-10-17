@@ -29,6 +29,11 @@ WebDriver driver;
         Assert.assertTrue(true);
     }
 
+    @Test
+    public void test3(){
+        Assert.assertTrue(true);
+    }
+
     @AfterTest
     public void tearDown(){
         driver.quit();
