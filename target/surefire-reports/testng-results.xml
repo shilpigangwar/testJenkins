@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="testCI.TestingCI" duration-ms="10147" started-at="2017-10-17T07:45:10Z" finished-at="2017-10-17T07:45:20Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="10147" started-at="2017-10-17T07:45:10Z" finished-at="2017-10-17T07:45:20Z">
+      <class name="testCI.TestingCI">
+        <test-method status="PASS" signature="setup1()[pri:0, instance:testCI.TestingCI@3f2a3a5]" name="setup1" is-config="true" duration-ms="8426" started-at="2017-10-17T00:45:10Z" finished-at="2017-10-17T00:45:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup1 -->
+        <test-method status="PASS" signature="Test2()[pri:0, instance:testCI.TestingCI@3f2a3a5]" name="Test2" duration-ms="3" started-at="2017-10-17T00:45:19Z" finished-at="2017-10-17T00:45:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test2 -->
+        <test-method status="PASS" signature="testValidSearch()[pri:0, instance:testCI.TestingCI@3f2a3a5]" name="testValidSearch" duration-ms="913" started-at="2017-10-17T00:45:19Z" finished-at="2017-10-17T00:45:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testValidSearch -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:testCI.TestingCI@3f2a3a5]" name="tearDown" is-config="true" duration-ms="773" started-at="2017-10-17T00:45:20Z" finished-at="2017-10-17T00:45:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testCI.TestingCI -->
+    </test> <!-- Command line test -->
+  </suite> <!-- testCI.TestingCI -->
+</testng-results>
